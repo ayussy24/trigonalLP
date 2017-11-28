@@ -1,1 +1,1 @@
-# trigonalLP
+# trigonal fitness LP リニューアル
